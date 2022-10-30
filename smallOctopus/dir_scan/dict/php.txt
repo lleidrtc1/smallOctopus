@@ -1,0 +1,16 @@
+index.php
+index.html
+get.htm
+changepwd.php
+admin_index.php
+down.htm
+star.php
+book.php
+moban.php
+default.php
+admin.htm
+2006.php
+add.php
+admin.php
+aspadmin.php
+install.php

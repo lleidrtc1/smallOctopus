@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///C:/Program Files (x86)/Nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.80 scan initiated Thu Oct 27 15:25:52 2022 as: nmap -sn -PE -&#45;min-hostgroup 1024 -&#45;min-parallelism 1024 -oX nmap.xml 192.168.219.0/24 -->
+<nmaprun scanner="nmap" args="nmap -sn -PE -&#45;min-hostgroup 1024 -&#45;min-parallelism 1024 -oX nmap.xml 192.168.219.0/24" start="1666855552" startstr="Thu Oct 27 15:25:52 2022" version="7.80" xmloutputversion="1.04">
+<verbose level="0"/>
+<debugging level="0"/>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.83" addrtype="ipv4"/>
+<address addr="00:0C:29:57:6C:DC" addrtype="mac" vendor="VMware"/>
+<hostnames>
+</hostnames>
+<times srtt="3000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.84" addrtype="ipv4"/>
+<address addr="38:F3:AB:B7:5A:0C" addrtype="mac"/>
+<hostnames>
+</hostnames>
+<times srtt="3000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.94" addrtype="ipv4"/>
+<address addr="00:0C:29:09:B0:BA" addrtype="mac" vendor="VMware"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.98" addrtype="ipv4"/>
+<address addr="00:0C:29:6B:3C:63" addrtype="mac" vendor="VMware"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.110" addrtype="ipv4"/>
+<address addr="08:26:AE:39:9D:01" addrtype="mac"/>
+<hostnames>
+</hostnames>
+<times srtt="4000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.117" addrtype="ipv4"/>
+<address addr="00:0C:29:69:17:76" addrtype="mac" vendor="VMware"/>
+<hostnames>
+</hostnames>
+<times srtt="3000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.159" addrtype="ipv4"/>
+<address addr="98:FA:9B:01:06:2F" addrtype="mac" vendor="Lcfc(hefei) Electronics Technology"/>
+<hostnames>
+</hostnames>
+<times srtt="1000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.160" addrtype="ipv4"/>
+<address addr="00:E0:4C:36:00:CE" addrtype="mac" vendor="Realtek Semiconductor"/>
+<hostnames>
+</hostnames>
+<times srtt="1000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.171" addrtype="ipv4"/>
+<address addr="00:E0:4C:36:02:22" addrtype="mac" vendor="Realtek Semiconductor"/>
+<hostnames>
+</hostnames>
+<times srtt="3000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.172" addrtype="ipv4"/>
+<address addr="F8:E4:3B:B2:51:DB" addrtype="mac"/>
+<hostnames>
+</hostnames>
+<times srtt="3000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.177" addrtype="ipv4"/>
+<address addr="6C:24:08:20:BA:94" addrtype="mac"/>
+<hostnames>
+</hostnames>
+<times srtt="3000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.182" addrtype="ipv4"/>
+<address addr="80:FA:5B:72:9C:BD" addrtype="mac" vendor="Clevo"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.183" addrtype="ipv4"/>
+<address addr="38:F3:AB:8C:14:70" addrtype="mac"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.187" addrtype="ipv4"/>
+<address addr="04:92:26:1B:6A:2D" addrtype="mac" vendor="Asustek Computer"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.188" addrtype="ipv4"/>
+<address addr="04:92:26:1A:65:4D" addrtype="mac" vendor="Asustek Computer"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.190" addrtype="ipv4"/>
+<address addr="2C:FD:A1:3F:89:63" addrtype="mac" vendor="Asustek Computer"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.191" addrtype="ipv4"/>
+<address addr="B0:25:AA:32:76:A4" addrtype="mac" vendor="Private"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.193" addrtype="ipv4"/>
+<address addr="7C:10:C9:91:5E:9B" addrtype="mac"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.194" addrtype="ipv4"/>
+<address addr="B4:A9:FC:2C:CC:93" addrtype="mac" vendor="Quanta Computer"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.195" addrtype="ipv4"/>
+<address addr="00:0E:C6:32:4C:11" addrtype="mac" vendor="Asix Electronics"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.196" addrtype="ipv4"/>
+<address addr="04:D4:C4:7A:44:FA" addrtype="mac" vendor="Asustek Computer"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.198" addrtype="ipv4"/>
+<address addr="3C:52:82:E4:95:5F" addrtype="mac" vendor="Hewlett Packard"/>
+<hostnames>
+</hostnames>
+<times srtt="2000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.199" addrtype="ipv4"/>
+<address addr="50:9A:4C:BD:E5:5B" addrtype="mac" vendor="Dell"/>
+<hostnames>
+</hostnames>
+<times srtt="1000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.219.200" addrtype="ipv4"/>
+<address addr="A8:5E:45:BF:63:B2" addrtype="mac"/>
+<hostnames>
+</hostnames>
+<times srtt="1000" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="localhost-response" reason_ttl="0"/>
+<address addr="192.168.219.155" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+</host>
+<runstats><finished time="1666855558" timestr="Thu Oct 27 15:25:58 2022" elapsed="6.19" summary="Nmap done at Thu Oct 27 15:25:58 2022; 256 IP addresses (25 hosts up) scanned in 6.19 seconds" exit="success"/><hosts up="25" down="231" total="256"/>
+</runstats>
+</nmaprun>

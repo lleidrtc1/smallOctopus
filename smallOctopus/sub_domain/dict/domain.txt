@@ -1,0 +1,17 @@
+phpmyadmin
+phpmyad
+phpmyadm
+myadm
+zone
+address
+firewall
+photo
+menus
+alias
+menu
+release
+debug
+path
+color
+dll
+exe
